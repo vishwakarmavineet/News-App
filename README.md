@@ -7,8 +7,8 @@ Hacker News app built with React.
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/hacker-news.git
-cd hacker-news
+git clone https://github.com/vishwakarmavineet/News-App.git
+cd News-App
 ```
 
 Install dependencies:
@@ -32,6 +32,3 @@ npm start
 | npm run build | Builds the app for production to the `build` folder.                    |
 | npm run eject | This command will remove the single build dependency from your project. |
 
-## License
-
-This is an open source software [licensed as MIT](https://github.com/SafdarJamal/hacker-news/blob/master/LICENSE).
